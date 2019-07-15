@@ -1,0 +1,38 @@
+D:\Training\PizzaDelivery\PizzaBal\bin\Debug\PizzaBal.dll
+D:\Training\PizzaDelivery\PizzaBal\bin\Debug\PizzaBal.pdb
+D:\Training\PizzaDelivery\PizzaBal\bin\Debug\PizzaDal.dll
+D:\Training\PizzaDelivery\PizzaBal\bin\Debug\PizzaDal.pdb
+D:\Training\PizzaDelivery\PizzaBal\obj\Debug\PizzaBal.csprojAssemblyReference.cache
+D:\Training\PizzaDelivery\PizzaBal\obj\Debug\PizzaBal.csproj.CoreCompileInputs.cache
+D:\Training\PizzaDelivery\PizzaBal\obj\Debug\PizzaBal.csproj.CopyComplete
+D:\Training\PizzaDelivery\PizzaBal\obj\Debug\PizzaBal.dll
+D:\Training\PizzaDelivery\PizzaBal\obj\Debug\PizzaBal.pdb
+C:\Users\GUPTAF\Downloads\PizzaDelivery\PizzaBal\bin\Debug\PizzaBal.dll
+C:\Users\GUPTAF\Downloads\PizzaDelivery\PizzaBal\bin\Debug\PizzaBal.pdb
+C:\Users\GUPTAF\Downloads\PizzaDelivery\PizzaBal\bin\Debug\mscorlib.dll
+C:\Users\GUPTAF\Downloads\PizzaDelivery\PizzaBal\bin\Debug\PizzaDal.dll
+C:\Users\GUPTAF\Downloads\PizzaDelivery\PizzaBal\bin\Debug\System.Net.Http.dll
+C:\Users\GUPTAF\Downloads\PizzaDelivery\PizzaBal\bin\Debug\PizzaDal.pdb
+C:\Users\GUPTAF\Downloads\PizzaDelivery\PizzaBal\bin\Debug\System.Net.Http.xml
+C:\Users\GUPTAF\Downloads\PizzaDelivery\PizzaBal\bin\Debug\normidna.nlp
+C:\Users\GUPTAF\Downloads\PizzaDelivery\PizzaBal\bin\Debug\normnfc.nlp
+C:\Users\GUPTAF\Downloads\PizzaDelivery\PizzaBal\bin\Debug\normnfd.nlp
+C:\Users\GUPTAF\Downloads\PizzaDelivery\PizzaBal\bin\Debug\normnfkc.nlp
+C:\Users\GUPTAF\Downloads\PizzaDelivery\PizzaBal\bin\Debug\normnfkd.nlp
+C:\Users\GUPTAF\Downloads\PizzaDelivery\PizzaBal\obj\Debug\PizzaBal.csprojResolveAssemblyReference.cache
+C:\Users\GUPTAF\Downloads\PizzaDelivery\PizzaBal\obj\Debug\PizzaBal.dll
+C:\Users\GUPTAF\Downloads\PizzaDelivery\PizzaBal\obj\Debug\PizzaBal.pdb
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaBal\bin\Debug\PizzaBal.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaBal\bin\Debug\PizzaBal.pdb
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaBal\bin\Debug\PizzaDal.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaBal\bin\Debug\PizzaDal.pdb
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaBal\obj\Debug\PizzaBal.csprojResolveAssemblyReference.cache
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaBal\obj\Debug\PizzaBal.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaBal\obj\Debug\PizzaBal.pdb
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaBal\bin\Debug\PizzaBal.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaBal\bin\Debug\PizzaBal.pdb
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaBal\bin\Debug\PizzaDal.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaBal\bin\Debug\PizzaDal.pdb
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaBal\obj\Debug\PizzaBal.csprojResolveAssemblyReference.cache
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaBal\obj\Debug\PizzaBal.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaBal\obj\Debug\PizzaBal.pdb

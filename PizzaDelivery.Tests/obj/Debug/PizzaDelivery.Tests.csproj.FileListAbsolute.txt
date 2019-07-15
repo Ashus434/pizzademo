@@ -1,0 +1,70 @@
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\PizzaDelivery.dll
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\PizzaDelivery.pdb
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\PizzaDelivery.dll.config
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\obj\Debug\PizzaDelivery.Tests.csprojAssemblyReference.cache
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\obj\Debug\PizzaDelivery.Tests.csproj.CoreCompileInputs.cache
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\obj\Debug\PizzaDelivery.Tests.csproj.CopyComplete
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\obj\Debug\PizzaDelivery.Tests.dll
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\obj\Debug\PizzaDelivery.Tests.pdb
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\PizzaDelivery.Tests.dll
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\PizzaDelivery.Tests.pdb
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\PizzaDal.dll
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\PizzaBal.dll
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\PizzaDal.pdb
+D:\Training\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\PizzaBal.pdb
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\PizzaDelivery.Tests.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\PizzaDelivery.Tests.pdb
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\PizzaDelivery.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\PizzaBal.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\PizzaDal.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\PizzaDelivery.pdb
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\PizzaBal.pdb
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaDelivery.Tests\bin\Debug\PizzaDal.pdb
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaDelivery.Tests\obj\Debug\PizzaDelivery.Tests.csprojResolveAssemblyReference.cache
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaDelivery.Tests\obj\Debug\PizzaDelivery.Tests.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\PizzaDelivery.Tests\obj\Debug\PizzaDelivery.Tests.pdb
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaDelivery.Tests\obj\Debug\PizzaDelivery.Tests.csprojResolveAssemblyReference.cache
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaDelivery.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaDelivery.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaDelivery.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaDelivery.Tests\bin\Debug\PizzaDelivery.Tests.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaDelivery.Tests\bin\Debug\PizzaDelivery.Tests.pdb
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaDelivery.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaDelivery.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaDelivery.Tests\bin\Debug\PizzaDelivery.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaDelivery.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaDelivery.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaDelivery.Tests\bin\Debug\PizzaBal.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaDelivery.Tests\bin\Debug\PizzaDal.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaDelivery.Tests\bin\Debug\PizzaDelivery.pdb
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaDelivery.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaDelivery.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaDelivery.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaDelivery.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaDelivery.Tests\bin\Debug\PizzaBal.pdb
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaDelivery.Tests\bin\Debug\PizzaDal.pdb
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaDelivery.Tests\obj\Debug\PizzaDelivery.Tests.dll
+C:\Users\GUPTAF\Desktop\PizzaDelivery\Visual studio file\PizzaDelivery.Tests\obj\Debug\PizzaDelivery.Tests.pdb
